@@ -3,7 +3,7 @@ Ce dépôt contient les différents projets et cours éffectué lors de la promo
 
 Les dossier : 
 
-- "00. Présentation formation & Certification", contient un descriptif de la formation & de la certification\n
+- "00. Présentation formation & Certification", contient un descriptif de la formation & de la certification
              
 - "01. Python & Machine learning", contient tous les cours de python, de traitement des données, de machine learning et de deep learning 
 (accompagné le plus souvent d'un petit projet qui met en oeuvre les connaissances acquises)
